@@ -1,0 +1,7 @@
+/*font-family: 'Open Sans', sans-serif;*/
+.centered {
+  position: absolute;
+  top: 48%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
